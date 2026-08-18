@@ -1,5 +1,8 @@
+import Register from './components/Register/Register';
+
+
 function App() {
-  return <div>CrashCars</div>;
+  return <Register />
 }
 
 export default App;
